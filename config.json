@@ -5,8 +5,10 @@
        "TOKEN2"
     ],
     "Channels": [
-        "1051448454733365310",
-        "1051448512400863332",
-        "1051448523813564476"
+        "mesaj gidicek kanal idleri",
+        "mesaj gidicek kanal idleri",
+        "mesaj gidicek kanal idleri"
     ]
 }
+// her yeni değişken eklemek istediginizde en sondaki degiskenin yanina , atip
+alt tarafda "" içine yeni değişkeni girin en sona hiçbir zaman , koymayın
