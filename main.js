@@ -19,7 +19,7 @@ const MessageInterval = config.sendMessageInterval;
 const TokensLenght = Tokens.length;
 const ChannelsLeght = Channels.length;
 
-setTitle(`OWOCASH | https://github.com/westydev | Made By WestyDev | ${TokensLenght} Tokens | ${ChannelsLeght} Channels`);
+setTitle(`OWOCASH | https://www.itemsatis.com/p/BurakStore | Made By Burakrhyme | ${TokensLenght} Tokens | ${ChannelsLeght} Channels`);
 
 function makeid(length) {
     var result           = '';
@@ -53,7 +53,7 @@ var messageIndex = 0;
 
            messageIndex = messageIndex + 1;
 
-            setTitle(`OWOCASH | https://github.com/westydev | Made By WestyDev | ${TokensLenght} Tokens | ${ChannelsLeght} Channels | ${messageIndex} Message Sended`);
+            setTitle(`OWOCASH | https://www.itemsatis.com/p/BurakStore | Made By Burakrhyme | ${TokensLenght} Tokens | ${ChannelsLeght} Channels | ${messageIndex} Message Sended`);
 
   
         }, MessageInterval)
